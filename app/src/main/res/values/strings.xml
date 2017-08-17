@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">DownloadingFileUsingRetrofit</string>
+  <string name="action_settings">Settings</string>
+  <string name="success">下载成功</string>
+</resources>
